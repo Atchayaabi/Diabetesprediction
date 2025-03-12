@@ -18,15 +18,7 @@ The Diabetes Prediction App is a tool that predicts the probability of a patient
 ![](https://img.shields.io/github/last-commit/Priyanshu88/Diabetes-Prediction-Streamlit-App)
   
  
- <h4>
-    <a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App/issues">Request Feature</a>
-  </h4>
+
 </div>
 
 <br />
