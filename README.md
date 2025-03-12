@@ -10,6 +10,7 @@ The Diabetes Prediction App is a tool that predicts the probability of a patient
 
 <!-- Badges -->
 
+
 <a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/Priyanshu88/Diabetes-Prediction-Streamlit-App.svg)
@@ -157,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
-Project Link: [https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git](https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git)
+
 <hr />
 <br />
 <div align="center">Don't forget to leave a star ⭐️</div>
